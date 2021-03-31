@@ -2,7 +2,7 @@
 
 Your task is to implement the constructor, `read` and `unshift` function on a Dynamic Array.
 
-You may use brackets to access values in your data like `data[i]` but no other built-in JavaScript array methods. .You cannot use [unshift][mdn-unshift] to implement your `unshift`.
+You may use brackets to access values in your data like `data[i]` but no other built-in JavaScript array methods. You cannot use [unshift][mdn-unshift] to implement your `unshift`.
 
 ## Instructions
 
